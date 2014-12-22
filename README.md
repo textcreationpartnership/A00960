@@ -35,19 +35,10 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE
-ELDER BROTHER
-A
-COMEDIE.
-Acted at the Blacke Friers, by his
-Maiesties Servants. Printed accordin
-    _ Lectori.
 The Speakers of the Play.LEVVIS, a Lord.MIRAMONT, a Gentleman.BRISAC, a Iustice, brother to Miramont
     _ Lectori.
 
 1. Prologue.
-
-    _ Lectori.
 
 #####Body#####
 
@@ -57,41 +48,7 @@ A Comedie.
     _ Actus I. Scoena I.
 
     _ Actus I. Scoena II.
-
-    _ Actus 2. Scoena 1.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena IV.
-
-    _ Actus 3. Scoena 1.
-
-    _ Actus III. Scoena II.
-
-    _ Actus III. Scoena III.
-
-    _ Actus III. Scoena IV.
-
-    _ Actus III. Scoena V.
-
-    _ Actus 4. Scoena 1.
-
-    _ Actus IV. Scoena II.
-
-    _ Actus IV. Scoena III.
-
-    _ Actus IV. Scoena IV.
-
-    _ Actus 5. Scoena 1.
-
-    _ Actus V. Scoena II.
 Actus 2. Scoena 1.MIRAMONT. BRISAC.NAy brother, brother.Bri.Pray Sir be not moved,I meddle with no b
-    _ Actus I. Scoena I.
-
-    _ Actus I. Scoena II.
-
     _ Actus 2. Scoena 1.
 
     _ Actus II. Scoena II.
@@ -99,41 +56,7 @@ Actus 2. Scoena 1.MIRAMONT. BRISAC.NAy brother, brother.Bri.Pray Sir be not move
     _ Actus II. Scoena II.
 
     _ Actus II. Scoena IV.
-
-    _ Actus 3. Scoena 1.
-
-    _ Actus III. Scoena II.
-
-    _ Actus III. Scoena III.
-
-    _ Actus III. Scoena IV.
-
-    _ Actus III. Scoena V.
-
-    _ Actus 4. Scoena 1.
-
-    _ Actus IV. Scoena II.
-
-    _ Actus IV. Scoena III.
-
-    _ Actus IV. Scoena IV.
-
-    _ Actus 5. Scoena 1.
-
-    _ Actus V. Scoena II.
 Actus 3. Scoena 1.LEVVIS, ANGELLINA, SYLVIA, NOTARY.THis is the day my daughter Angellina,The happy,
-    _ Actus I. Scoena I.
-
-    _ Actus I. Scoena II.
-
-    _ Actus 2. Scoena 1.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena IV.
-
     _ Actus 3. Scoena 1.
 
     _ Actus III. Scoena II.
@@ -143,42 +66,8 @@ Actus 3. Scoena 1.LEVVIS, ANGELLINA, SYLVIA, NOTARY.THis is the day my daughter 
     _ Actus III. Scoena IV.
 
     _ Actus III. Scoena V.
-
-    _ Actus 4. Scoena 1.
-
-    _ Actus IV. Scoena II.
-
-    _ Actus IV. Scoena III.
-
-    _ Actus IV. Scoena IV.
-
-    _ Actus 5. Scoena 1.
-
-    _ Actus V. Scoena II.
 Actus 4. Scoena 1.Enter BRISAC, EUSTACE, EGREMONT,
 COVVSY.NEre talke to me, you are no men but Masqu
-    _ Actus I. Scoena I.
-
-    _ Actus I. Scoena II.
-
-    _ Actus 2. Scoena 1.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena IV.
-
-    _ Actus 3. Scoena 1.
-
-    _ Actus III. Scoena II.
-
-    _ Actus III. Scoena III.
-
-    _ Actus III. Scoena IV.
-
-    _ Actus III. Scoena V.
-
     _ Actus 4. Scoena 1.
 
     _ Actus IV. Scoena II.
@@ -186,80 +75,12 @@ COVVSY.NEre talke to me, you are no men but Masqu
     _ Actus IV. Scoena III.
 
     _ Actus IV. Scoena IV.
-
-    _ Actus 5. Scoena 1.
-
-    _ Actus V. Scoena II.
 Actus 5. Scoena 1.EUSTACE, EGREMONT, COVVSY.Turn'd out of doores and baffled!Egre.We share with youI
-    _ Actus I. Scoena I.
-
-    _ Actus I. Scoena II.
-
-    _ Actus 2. Scoena 1.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena IV.
-
-    _ Actus 3. Scoena 1.
-
-    _ Actus III. Scoena II.
-
-    _ Actus III. Scoena III.
-
-    _ Actus III. Scoena IV.
-
-    _ Actus III. Scoena V.
-
-    _ Actus 4. Scoena 1.
-
-    _ Actus IV. Scoena II.
-
-    _ Actus IV. Scoena III.
-
-    _ Actus IV. Scoena IV.
-
     _ Actus 5. Scoena 1.
 
     _ Actus V. Scoena II.
 
 1. Epilogue.
-
-    _ Actus I. Scoena I.
-
-    _ Actus I. Scoena II.
-
-    _ Actus 2. Scoena 1.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena II.
-
-    _ Actus II. Scoena IV.
-
-    _ Actus 3. Scoena 1.
-
-    _ Actus III. Scoena II.
-
-    _ Actus III. Scoena III.
-
-    _ Actus III. Scoena IV.
-
-    _ Actus III. Scoena V.
-
-    _ Actus 4. Scoena 1.
-
-    _ Actus IV. Scoena II.
-
-    _ Actus IV. Scoena III.
-
-    _ Actus IV. Scoena IV.
-
-    _ Actus 5. Scoena 1.
-
-    _ Actus V. Scoena II.
 
 **Types of content**
 
@@ -294,50 +115,44 @@ There are 8 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__label__|5||
-|14.|__langUsage__|1||
-|15.|__language__|1| @__ident__ (1) : eng (1)|
-|16.|__listPrefixDef__|1||
-|17.|__note__|8||
-|18.|__notesStmt__|2||
-|19.|__p__|11||
-|20.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|21.|__profileDesc__|1||
-|22.|__projectDesc__|1||
-|23.|__pubPlace__|2||
-|24.|__publicationStmt__|2||
-|25.|__publisher__|2||
-|26.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|27.|__revisionDesc__|1||
-|28.|__seriesStmt__|1||
-|29.|__sourceDesc__|1||
-|30.|__title__|3||
-|31.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__label__|5||
+|12.|__langUsage__|1||
+|13.|__language__|1| @__ident__ (1) : eng (1)|
+|14.|__listPrefixDef__|1||
+|15.|__note__|8||
+|16.|__notesStmt__|2||
+|17.|__p__|11||
+|18.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|19.|__projectDesc__|1||
+|20.|__pubPlace__|2||
+|21.|__publicationStmt__|2||
+|22.|__publisher__|2||
+|23.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|24.|__seriesStmt__|1||
+|25.|__sourceDesc__|1||
+|26.|__title__|3||
+|27.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|8||
-|3.|__div__|27| @__type__ (27) : title_page (1), dramatis_personae (1), to_the_reader (1), prologue (1), act (5), scene (17), epilogue (1)  •  @__n__ (22) : 1 (6), 2 (6), 3 (4), 4 (4), 5 (2)|
-|4.|__front__|1||
-|5.|__g__|3| @__ref__ (3) : char:EOLhyphen (3)|
-|6.|__gap__|8| @__reason__ (8) : illegible (7), duplicate (1)  •  @__extent__ (8) : 1 letter (4), 3 letters (1), 2 letters (2), 2 pages (1)|
-|7.|__head__|22||
-|8.|__hi__|286||
-|9.|__item__|15||
-|10.|__l__|2649||
-|11.|__lg__|3||
-|12.|__list__|1||
-|13.|__p__|3||
-|14.|__pb__|76| @__facs__ (76) : tcp:2504:1 (2), tcp:2504:2 (2), tcp:2504:3 (2), tcp:2504:4 (2), tcp:2504:5 (2), tcp:2504:6 (2), tcp:2504:7 (2), tcp:2504:8 (2), tcp:2504:9 (2), tcp:2504:10 (2), tcp:2504:11 (2), tcp:2504:12 (2), tcp:2504:13 (2), tcp:2504:14 (2), tcp:2504:15 (2), tcp:2504:16 (2), tcp:2504:17 (2), tcp:2504:18 (2), tcp:2504:19 (2), tcp:2504:20 (2), tcp:2504:21 (2), tcp:2504:22 (2), tcp:2504:23 (2), tcp:2504:24 (2), tcp:2504:25 (2), tcp:2504:26 (2), tcp:2504:27 (2), tcp:2504:28 (2), tcp:2504:29 (2), tcp:2504:30 (2), tcp:2504:31 (2), tcp:2504:32 (2), tcp:2504:33 (2), tcp:2504:34 (2), tcp:2504:35 (2), tcp:2504:36 (2), tcp:2504:37 (2), tcp:2504:38 (2)|
-|15.|__sp__|740||
-|16.|__speaker__|726||
-|17.|__stage__|68||
-|18.|__trailer__|2||
+|1.|__desc__|8||
+|2.|__div__|27| @__type__ (27) : title_page (1), dramatis_personae (1), to_the_reader (1), prologue (1), act (5), scene (17), epilogue (1)  •  @__n__ (22) : 1 (6), 2 (6), 3 (4), 4 (4), 5 (2)|
+|3.|__g__|3| @__ref__ (3) : char:EOLhyphen (3)|
+|4.|__gap__|8| @__reason__ (8) : illegible (7), duplicate (1)  •  @__extent__ (8) : 1 letter (4), 3 letters (1), 2 letters (2), 2 pages (1)|
+|5.|__head__|22||
+|6.|__hi__|286||
+|7.|__item__|15||
+|8.|__l__|2649||
+|9.|__lg__|3||
+|10.|__list__|1||
+|11.|__p__|3||
+|12.|__pb__|76| @__facs__ (76) : tcp:2504:1 (2), tcp:2504:2 (2), tcp:2504:3 (2), tcp:2504:4 (2), tcp:2504:5 (2), tcp:2504:6 (2), tcp:2504:7 (2), tcp:2504:8 (2), tcp:2504:9 (2), tcp:2504:10 (2), tcp:2504:11 (2), tcp:2504:12 (2), tcp:2504:13 (2), tcp:2504:14 (2), tcp:2504:15 (2), tcp:2504:16 (2), tcp:2504:17 (2), tcp:2504:18 (2), tcp:2504:19 (2), tcp:2504:20 (2), tcp:2504:21 (2), tcp:2504:22 (2), tcp:2504:23 (2), tcp:2504:24 (2), tcp:2504:25 (2), tcp:2504:26 (2), tcp:2504:27 (2), tcp:2504:28 (2), tcp:2504:29 (2), tcp:2504:30 (2), tcp:2504:31 (2), tcp:2504:32 (2), tcp:2504:33 (2), tcp:2504:34 (2), tcp:2504:35 (2), tcp:2504:36 (2), tcp:2504:37 (2), tcp:2504:38 (2)|
+|13.|__sp__|740||
+|14.|__speaker__|726||
+|15.|__stage__|68||
+|16.|__trailer__|2||
